@@ -11,15 +11,6 @@
     "web": "pm2 start web.js --attach",
     "c": "tsc"
   },
-  "keywords": [
-    "boot",
-    "Baileys",
-    "Zokou",
-    "whatsapp",
-    "whatsapp-boot",
-    "Fedora",
-    "FaouzKK"
-  ],
   "author": "Fedora && FaouzKK",
   "license": "ISC",
   "dependencies": {
