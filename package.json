@@ -11,7 +11,7 @@
     "web": "pm2 start web.js --attach",
     "c": "tsc"
   },
-  "author": "Fedora && FaouzKK",
+  "author": "test",
   "license": "ISC",
   "dependencies": {
     "@hapi/boom": "^10.0.1",
